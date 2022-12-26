@@ -10,7 +10,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage('https://cdn.pixabay.com/photo/2017/02/07/16/47/kingfisher-2046453__340.jpg'),
+            image: AssetImage('images/dimond.jpg'),
           ),
         )
       )
